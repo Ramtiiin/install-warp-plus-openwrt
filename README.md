@@ -25,7 +25,7 @@ Read more about [Install PassWall2 on OpenWrt router](https://github.com/Ramtiii
    ```sh
    opkg install openssh-sftp-server
    
-5. [Download WARP PLUS based on your Router's CPU Architecture:](https://github.com/bepass-org/warp-plus/releases)
+5. [Download WARP PLUS based on your Router's CPU Architecture](https://github.com/bepass-org/warp-plus/releases)\n
    Extract the file and RENAME the binary file to > warp
 
 7. Transfer the file to the Router > /usr/bin (with tools like WinSCP, VSCode, ...)

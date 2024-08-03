@@ -72,5 +72,7 @@ Save & exit the editor (Esc > :x)
      service warp status
     ```
 12. Go to Luci-app (OpenWrt web) > Passwall2 and create a sockes config to:
+    
     127.0.0.1:9090
+
     and Enable Main switch & Socks Config
